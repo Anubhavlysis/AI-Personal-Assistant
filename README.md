@@ -16,13 +16,13 @@ Tasks are routed to appropriate tools (Gmail, Calendar, Notes, etc.)
 Response is returned back to the user
 
 ⚙️ Key Functionalities
-✅ Task Management (Create, Update, Delete, Retrieve)
-💰 Expense Tracking & Budget Logging
-📧 Email Automation (Read, Send, Summarize)
-📅 Calendar Event Management
-📝 Notes Creation & Updates
-🔎 Google Search Integration
-🤖 Conversational AI Interface
+* Task Management (Create, Update, Delete, Retrieve)
+* Expense Tracking & Budget Logging
+* Email Automation (Read, Send, Summarize)
+* Calendar Event Management
+* Notes Creation & Updates
+* Google Search Integration
+* Conversational AI Interface
 
 --- 
 
@@ -62,9 +62,9 @@ User → Streamlit UI → n8n Webhook → AI Agent → Tool Routing → Response
 --- 
 
 ## 🛠 Tools & Technologies
-Python (Streamlit)
-n8n (Workflow Automation)
-LLM (Google Gemini / Groq / Ollama)
-Google Services (Gmail, Calendar, Sheets)
+* Python (Streamlit)
+* n8n (Workflow Automation)
+* LLM (Google Gemini / Groq / Ollama)
+* Google Services (Gmail, Calendar, Sheets)
 
 ---
