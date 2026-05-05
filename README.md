@@ -29,6 +29,10 @@ Response is returned back to the user
 ## 📸 Sample Screenshots
 
 ### Streamlit Chat Interface
+![Streamlit Chat Interface](images/streamlit-interface.png)
+
+### Prompting
+![Prompting](images/prompting.png)
 
 --- 
 
@@ -53,6 +57,7 @@ Response is returned back to the user
 User → Streamlit UI → n8n Webhook → AI Agent → Tool Routing → Response → UI
 
 ### n8n-Workflow
+![n8n-Workflow](images/n8n-workflow.png)
 
 --- 
 
